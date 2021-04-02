@@ -1,2 +1,2 @@
 hi
- this is b file in feature1
+ this is b file in master
